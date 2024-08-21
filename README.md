@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested in machine learning and cybersecurity
+- 🌱 I’m currently learning about APIs
+- 📫 I'm still a beginner
+- ⚡ Fun fact: i play roblox
